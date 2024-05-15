@@ -1,10 +1,10 @@
 # Módulo 4 - Data Wrangling 
 
-## Objetivo del módulo: Entender del proceso de **E**xtracción **T**ransofrmación y Carga (ETL) 📥 🔄 📤 ☁
-
-## Y llevarlo a cabo a través de un proyecto
+## Objetivo del módulo: Entender del proceso de **E**xtracción **T**ransofrmación y Carga (ETL) 📥 🔄 📤 ☁ Y llevarlo a cabo a través de un proyecto
 
 #### En el módulo se priorizará el cómo y donde podemos conseguir datos para nuestros proyectos
+
+
 
 
 ### Sesión 1 - Introducción a Data Wrangling / Data Engineering ☁️
