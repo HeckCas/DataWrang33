@@ -26,6 +26,9 @@
 
 · [Colab de BD No relacionales_Codigo Base](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing)
 
+
+· [Colab de BD No relacionales_RESUELTO EN CLASE](https://colab.research.google.com/drive/1Tensf9ZL39pk7N8zp8HjPh8QDm3sJzhA?usp=drive_link)
+
 · [Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
 
 
@@ -40,6 +43,9 @@
 
 
 · [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=sharing)
+· [Colab de APIs_ RESUELTO EN CLASE](https://colab.research.google.com/drive/1223jlWHErC6cEjVma8_s5HSrMIN4zC-T?usp=drive_link )
+
+
 
 
 __Documentación de APIs Utilizadas en clase__
