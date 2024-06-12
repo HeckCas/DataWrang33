@@ -83,6 +83,10 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 [Código base](https://drive.google.com/file/d/1CUEBBmHW5uk7G5OC0Jmn8NaAR5hR8dyc/view?usp=drive_link)
 
+
+
+[Código RESUELTO EN CLASE](https://github.com/HeckCas/DataWrang33/blob/main/app.py)
+
 Descargar __Postman__
 
 [Software para hacer pruebas de peticiones](https://www.postman.com/downloads/)
@@ -90,9 +94,20 @@ Descargar __Postman__
 
 
 ### Sesión 8 - Deploy API a Producción 🤖 🕷
+
+[Requirements](https://github.com/HeckCas/prueba-glitch/blob/main/requirements.txt)
+[Configuracion](https://github.com/HeckCas/prueba-glitch/blob/main/start.sh)
+
+
 Crear cuenta en [github.com](https://github.com)
 
 Crear cuenta en [glitch.com](https://glitch.com)
 
+
+
+
+
+Para guiarse:
+[REPO Referencia](https://github.com/HeckCas/prueba-glitch)
 
 
